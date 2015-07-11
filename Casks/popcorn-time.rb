@@ -1,8 +1,8 @@
 cask :v1 => 'popcorn-time' do
-  version '3.7.2'
-  sha256 "a35b5402c84b69bf54c86c278c62d93d933506966c8c819e56f97877e4d2cfb7"
+  version '0.3.8'
+  sha256 "f1c7edbb24ee582b44e30eb880f81c9140d7c8035f6484283a1f0e45fb840ddc"
 
-  url "http://31.7.184.36/build/Popcorn-Time-0.#{version}-Mac.dmg"
+  url "http://188.166.17.42/build/Popcorn-Time-#{version}-0-Mac.dmg"
   name 'Popcorn-Time'
   homepage 'https://popcorntime.io'
   license :gpl
